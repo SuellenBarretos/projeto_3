@@ -1,0 +1,9 @@
+table,td,th{
+    border: 2px solid cornflowerblue;
+}
+
+td{
+    padding: 5px;
+}
+
+
